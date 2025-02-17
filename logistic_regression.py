@@ -1,5 +1,5 @@
 import numpy as np
-class LogisticRgression:
+class LogisticRegression:
     def __init__(self,epochs=500,lr=0.001):
         self.epochs=epochs
         self.lr=lr
