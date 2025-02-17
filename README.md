@@ -15,7 +15,7 @@ Logistic Regression is a supervised machine learning algorithm commonly used for
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/logistic-regression-from-scratch.git
+   git clone https://github.com/pradeesh-ml/logistic-regression-from-scratch.git
    ```
 
 2. Import the `LogisticRegression` class:
